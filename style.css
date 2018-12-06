@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+*{
+    font-family: 'Anton', sans-serif;
+}
+body{
+    color:white;
+    background-color: deeppink;
+}
+h1{
+    color: whitesmoke;
+    font-size: 45px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    border-radius: 30 px;
+}
+button{
+    color: deeppink;
+    background-color: white;
+    border: 3px white solid;
+
+}
+img{
+    border-radius: 60px;
+    display: inline-block;
+}
